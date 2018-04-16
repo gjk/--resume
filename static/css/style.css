@@ -218,19 +218,17 @@ progress::-moz-progress-value {
 }
 
 .main {
-
     position: relative;;
     margin-left: 412px;
     min-height: 100%;
     padding: 20px;
-
 }
 
-.info-header:hover {
+#cv .info-header:hover {
     background-color: #d4dee4;
 }
 
-.info-unit ul li:hover {
+#cv .info-unit ul li:hover {
     background-color: #d4dee4;
 }
 
